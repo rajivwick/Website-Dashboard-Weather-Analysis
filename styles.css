@@ -1,0 +1,40 @@
+body {
+  background-color: rgba(184, 190, 201, 0.911);
+}
+
+ul.navbar-nav a:hover {
+  background-color: rgba(235, 236, 250, 0.89) !important;
+}
+
+.navbar {
+  padding: 0.5rem 2rem;
+}
+
+.navbar-brand {
+  margin-left: 5rem;
+}
+p {
+  color:rgb(4, 4, 94);
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+h2 {
+  class: text-info;
+}
+
+.summaryImage {
+  width: 100%;
+  height: auto;
+}
+
+.box {
+  margin-top: 15px;
+  margin-bottom: 55px;
+  padding: 10px 20px 15px;
+  color: black;
+  background-color: white;
+}
+h3 {
+  color: rgba(61, 163, 155, 0.726)
+}
